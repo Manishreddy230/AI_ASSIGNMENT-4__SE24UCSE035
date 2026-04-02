@@ -101,13 +101,3 @@ This project demonstrates how CSP techniques can solve map coloring problems, Su
 Backtracking efficiently explores possible solutions while satisfying all constraints.
 
 ---
-
-## How to Run
-
-python filename.py
-
----
-
-## Author
-
-Your Name
